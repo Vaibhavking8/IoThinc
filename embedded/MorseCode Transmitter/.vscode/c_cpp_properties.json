@@ -8,7 +8,6 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "Z:/Vaibhav Project/VS Code/Club Tasks/Iothinc/embedded/MorseCode Transmitter/include",
                 "Z:/Vaibhav Project/VS Code/Club Tasks/Iothinc/embedded/MorseCode Transmitter/src",
                 "C:/Users/Dell/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/Dell/.platformio/packages/framework-arduino-avr/variants/standard",
@@ -22,7 +21,6 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "Z:/Vaibhav Project/VS Code/Club Tasks/Iothinc/embedded/MorseCode Transmitter/include",
                     "Z:/Vaibhav Project/VS Code/Club Tasks/Iothinc/embedded/MorseCode Transmitter/src",
                     "C:/Users/Dell/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/Dell/.platformio/packages/framework-arduino-avr/variants/standard",
